@@ -17,5 +17,3 @@ Carácteristicas para agregar a futuro/corregir:
 -Posibilidad de dar calificación y reseña a un producto
 -Hacerlo 100% responsive
 -Login con Google
-
-

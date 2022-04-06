@@ -1,6 +1,6 @@
 Proyecto Snikerz
 
-Es una página ecommerce de venta de zapatillas que cuenta con las siguientes carácteristicas:
+Es un ecommerce de venta de zapatillas que cuenta con las siguientes carácteristicas:
 -Login (y persistencia de sesión)
 -Registro de nuevo usuario
 -Carrito de compras con checkout y envio de mail para confirmación de compra

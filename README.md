@@ -1,14 +1,14 @@
 Proyecto Snikerz
 
 Es un ecommerce de venta de zapatillas que cuenta con las siguientes carácteristicas:
--Login (y persistencia de sesión)
--Registro de nuevo usuario
--Carrito de compras con checkout y envio de mail para confirmación de compra
--Lista de productos
--Vista individual de un producto
--Posibilidad de buscar productos por nombre
--Posibilidad de filtrar productos por categorias
--Admin Panel donde se puede administrar usuarios y publicaciones (ABM), asi como asignar el rol de Admin a un usuario.
+login (y persistencia de sesión),
+registro de nuevo usuario,
+carrito de compras con checkout y envio de mail para confirmación de compra,
+lista de productos,
+vista individual de un producto,
+posibilidad de buscar productos por nombre,
+posibilidad de filtrar productos por categorias,
+Admin Panel donde se puede administrar usuarios y publicaciones (ABM), asi como asignar el rol de Admin a un usuario.
 
 Tecnologías usadas:
 Javascript, HTML, CSS, Redux, React Bootstrap, Sequelize, Express, NodeJS, React Icons, CSS modules, PSQL, etc.

@@ -11,7 +11,7 @@ posibilidad de filtrar productos por categorias,
 Admin Panel donde se puede administrar usuarios y publicaciones (ABM), asi como asignar el rol de Admin a un usuario.
 
 Tecnologías usadas:
-Javascript, HTML, CSS, Redux, React Bootstrap, Sequelize, Express, NodeJS, React Icons, CSS modules, PSQL, etc.
+Javascript, HTML, CSS, Redux, React Bootstrap, Sequelize, Express, NodeJS, React Icons, CSS Modules, PSQL, etc.
 
 Carácteristicas para agregar a futuro/corregir:
 -Posibilidad de dar calificación y reseña a un producto
